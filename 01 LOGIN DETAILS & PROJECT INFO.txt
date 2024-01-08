@@ -1,0 +1,11 @@
+*Admin Login Details*
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+Employee Login Details*
+
+Email   : jwood@mail.com
+Password: pass123
+
